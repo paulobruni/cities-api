@@ -1,6 +1,8 @@
 # Cities API - DIO Bootcamp TQI
 
-## Requiisitos
+Agradecimento a [André Luis Gomes](https://github.com/andrelugomes)
+
+## Requisitos
 
 * Git
 * Java 8
